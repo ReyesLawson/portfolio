@@ -1,0 +1,26 @@
+
+
+
+[
+ {
+  "title": "HTML",
+  "imageSrc": "Images/htmlIcon.svg"
+ },
+ {
+    "title": "CSS",
+    "imageSrc": "Images/cssIcon.svg"
+ },
+ {
+    "title": "NODE",
+    "imageSrc": "Images/nodejsIcon.svg"
+ },
+ {
+    "title": "REACT",
+    "imageSrc": "Images/reactIcon.svg"
+ },
+ {
+    "title": "SQL",
+    "imageSrc": "Images/sqlIcon.svg"
+ }
+]
+

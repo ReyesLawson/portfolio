@@ -1,0 +1,19 @@
+[
+    {
+        "role": "X-ray Technologist",
+         "organisation" : "Prisma Health Toumey",
+         "startDate": "2014",
+         "endDate": " 2015",
+         "experiences" : ["Worked in a hospital performing medical examinations with x-ray equiment"],
+         "imageSrc" : "Images/x-ray.jpg" 
+     },
+ 
+     {
+         "role": "CT Technologist",
+          "organisation" : "HCA, Ascension , Premier Radiology",
+          "startDate": "2015",
+          "endDate": " current",
+          "experiences" : ["Worked in hospitals and clinics performing medical examinations with x-ray equiment including CT machines"],
+          "imageSrc" : "Images/ctscan.png" 
+      }
+]
